@@ -1,7 +1,7 @@
 +++
 # Projects widget.
 widget = "Certification"
-active = false
+active = true
 date = 2016-04-20T00:00:00
 
 title = "Certifications"
@@ -36,17 +36,21 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-# [[filter]]
-#   name = "All"
-#   tag = "*"
-#
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = "Demo"
+[[filter]]
+  name = "All"
+  tag = "*"
+
+[[filter]]
+  name = "Certified Ethical Hacker"
+  tag = "EC-Council"
+
+[[filter]]
+  name = "Information Systems Security Professionals, NSTISSI No. 4011"
+  tag = "University of Texas at Arlington"
+  
+[[filter]]
+  name = "System Administrators, CNSSI No. 4013E"
+  tag = "University of Texas at Arlington"
 
 +++
-To add a content here lets nacho!
+
