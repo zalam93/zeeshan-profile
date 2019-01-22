@@ -44,17 +44,5 @@ date_format = "January 2006"
   Improved SQL queries and stored procedures for company’s core product JBI-RMS web portal up to 20%
   Provided support to group meetings and status updates on development task for progress reporting
   """
-  
-  [[experience]]
-  title = "Software Developer"
-  company = "Linuro Tech Private Ltd, Karachi Pakistan."
-  company_url = ""
-  location = "Coppell"
-  date_start = "2016-06-01"
-  date_end = "2016-12-31"
-  description = """• Work on three tier and object-oriented applications using C#, ASP.NET and converted multiple existing websites to
-implement MVC architecture in ASP.NET using C#.
-• Develop web applications for retailer clients on ASP.NET using C# and configure IIS for application deployment.
-  """
 
 +++
