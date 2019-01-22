@@ -53,4 +53,6 @@ filter_default = 0
   tag = "University of Texas at Arlington"
 
 +++
-asdasdad
+• Certified Ethical Hacker, EC-Council. 
+• Information Systems Security Professionals, NSTISSI No. 4011, University of Texas at Arlington.
+• System Administrators, CNSSI No. 4013E, University of Texas at Arlington.
