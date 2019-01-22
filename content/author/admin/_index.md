@@ -68,9 +68,9 @@ interests = [
   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
-  icon = "github"
+  icon = "linkedin"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://www.linkedin.com/in/zeeshan-alam/"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
