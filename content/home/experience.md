@@ -7,7 +7,7 @@ title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 8
+weight = 2
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -34,12 +34,15 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Software Developer Intern"
+  company = "Justice Benefits Inc."
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Coppell"
+  date_start = "2018-06-04"
+  date_end = "2019-01-13"
+  description = """Created JBI-RMS mobile application for Android and iOS utilizing Xamarin and Visual Studio in C
+  Improved SQL queries and stored procedures for company’s core product JBI-RMS web portal up to 20%
+  Provided support to group meetings and status updates on development task for progress reporting
+  """
 
 +++
