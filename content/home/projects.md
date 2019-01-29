@@ -4,7 +4,7 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Certifications"
+title = "Project"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -41,6 +41,5 @@ filter_default = 0
 
 
 +++
-• Certified Ethical Hacker, EC-Council. 
-• Information Systems Security Professionals, NSTISSI No. 4011, University of Texas at Arlington.
-• System Administrators, CNSSI No. 4013E, University of Texas at Arlington.
+A successfull career not only is dependable to the pay a employeer gets but there are other external and internal factors such as work environment, stress load, internal politics of the company and pros and the cons which decide if the person's work style is compatible with the company or not. getting a high pay job in the company where your work style does not match and leads to constant stress and dicomfort will probably decrease the level of productivity and satisfication for the work hence resulting in less probability of having a successful professional career at that company.
+To solve this the mobile application would be available soon from which a user can search for the companies they would like to work at which is also compatible to their needs, also the application is a recommendation system which will help you find the suitable company for you.
