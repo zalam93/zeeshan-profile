@@ -46,8 +46,7 @@ To solve this the mobile application would be available soon from which a user c
 Propsal Link : https://zalam.netlify.com/files/proposal.pdf
 
 
-{{< figure library="1" src="screen1.png"  >}}
-{{< figure library="2" src="screen2.png" >}}
-{{< figure library="3" src="screen3.png"  >}}
+{{< figure library="1" src="prototype.jpg" Title="Prototype"  >}}
+
 
 
