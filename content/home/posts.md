@@ -6,8 +6,8 @@ active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 date = 2016-04-20T00:00:00
 
-title = "Recent Posts"
-subtitle = ""
+title = "search Engine for JBolt Web Application"
+subtitle = "Web application take tells you which company who are most suited for!"
 
 # Number of recent posts to list.
 count = 5
